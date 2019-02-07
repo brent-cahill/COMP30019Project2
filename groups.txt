@@ -1,0 +1,7 @@
+"Santa Jump"
+
+Brent Cahill - implemented  the  code  for  both  the  Cel  andPhong shaders.  In addition, he contributed to the ran-dom  generation  of  platforms,  as  well  as  wrote  and  formatted the report as it now stands.
+
+Lukas  Ekberg - provided  all  of  the  player  scripting,  includingmovement and interaction with objects,  platforms,  andboundaries.   In  addition,  he  scripted  the  camera  move-ment, added the “Game Over” state with replay button,and found and implemented the Santa Claus Asset withanimation.
+
+Ryan  O'Kane - implemented  the  particle  system  for  boosts,boost spawning and boost scripting.  In addition, he im-plemented the random generation of platforms,  the de-struction of objects which were outside the game screen,and an infinitely scrolling background.  He also createdthe  heads  up  display  with  boost  indicator  and  currentscore, as well as the main menu.

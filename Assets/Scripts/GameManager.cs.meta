@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b4627bb8e2f0c45bfbf7a5afe0537691
+timeCreated: 1538989215
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - boostPrefab: {fileID: 1204100569109750, guid: 1420009d11f464afebd3432dfd290f1d,
+      type: 2}
+  - platformPrefab: {fileID: 1962951776279470, guid: e76ffdf135fb7854d8fd26004d479231,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

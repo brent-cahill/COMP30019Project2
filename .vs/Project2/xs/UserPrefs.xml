@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{1D45277B-A47E-F56E-AB7D-9CA29A1739D3}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Shaders/PhongShader.shader">
+    <Files>
+      <File FileName="Assets/Shaders/PhongShader.shader" Line="125" Column="22" />
+      <File FileName="../Project 1/Assets/Shaders/PhongShader.shader" Line="1" Column="1" />
+      <File FileName="Assets/Shaders/CelShader.shader" Line="64" Column="58" />
+      <File FileName="Assets/Scripts/CameraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlatformScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Project2 PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
